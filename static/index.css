@@ -430,7 +430,122 @@ body {
     text-align: center;
 }
 
-.mid-right{
+.mid-right {
+    position: absolute;
+    width: 404px;
+    height: 57px;
+    left: 634px;
+    top: 186px;
+
+    background: #121317;
+    border-radius: 15px;
+}
+
+.mid-rgt {
+    position: absolute;
+    width: 376px;
+    height: 39px;
+    left: 14px;
+    top: 9px;
+    gap: 4px;
+}
+
+.portfolio {
+    position: absolute;
+    width: 91px;
+    height: 39px;
+    background: #000000;
+    border-radius: 15px;
+}
+
+#portfolio {
+    position: absolute;
+    width: 53px;
+    height: 19px;
+    left: 19px;
+    top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+.funding {
+    height: 39px;
+    width: 91px;
+    left: 95px;
+    top: 0px;
+    border-radius: 15px;
+    padding: 10px 38px 10px 38px;
 
 }
 
+#funding {
+    position: absolute;
+    width: 52px;
+    height: 19px;
+    left: 128.5px;
+    top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+.assets {
+    height: 39px;
+    width: 91px;
+    left: 190px;
+    top: 0px;
+    border-radius: 15px;
+    padding: 10px 38px 10px 38px;
+
+}
+
+#assets {
+    position: absolute;
+    height: 19px;
+    width: 40px;
+    left: 229.5px;
+    top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+
+}
+
+.p2p {
+    position: absolute;
+    height: 39px;
+    width: 91px;
+    right: 14px;
+    top: 0px;
+    border-radius: 15px;
+    padding: 10px 38px 10px 38px;
+
+}
+
+#p2p {
+    position: absolute;
+    width: 25px;
+    height: 19px;
+    left: 132px;
+    top: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+}
