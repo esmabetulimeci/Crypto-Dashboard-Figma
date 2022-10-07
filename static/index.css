@@ -549,3 +549,23 @@ body {
     color: #FFFFFF;
     margin: 0px;
 }
+
+.mid-center {
+    position: absolute;
+    top: 310px;
+    left: 303px;
+    width: 744px;
+    height: 443px;
+    background: #121317;
+    border-radius: 15px;
+
+}
+
+.select {
+    position: absolute;
+    width: 219px;
+    height: 33px;
+    left: 339px;
+    top: 345px;
+    gap: 6px;
+}
