@@ -245,3 +245,192 @@ body {
     top: 12.419998168945312px;
 
 }
+
+.messages {
+    background: #000000;
+    border-radius: 12.42px;
+    position: absolute;
+    height: 45.540000915527344px;
+    width: 207px;
+    left: 0px;
+    top: 262.1600036621094px;
+
+
+}
+
+#messages {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.73199462890625px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+
+}
+
+#messages-img {
+    position: absolute;
+    left: 18.21600341796875px;
+    top: 12.420013427734375px;
+
+}
+
+.settings {
+    background: #000000;
+    border-radius: 12.42px;
+    position: absolute;
+    height: 45.540000915527344px;
+    width: 207px;
+    left: 0px;
+    top: 327.70001220703125px;
+
+
+
+
+}
+
+#settings {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.73199462890625px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+
+}
+
+#settings-img {
+    position: absolute;
+    left: 18.21600341796875px;
+    top: 12.420013427734375px;
+
+}
+
+.help {
+    background: #000000;
+    border-radius: 12.42px;
+    position: absolute;
+    height: 45.540000915527344px;
+    width: 207px;
+    left: 0px;
+    top: 393.2400207519531px;
+
+}
+
+#help {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.73199462890625px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+}
+
+#help-img {
+    position: absolute;
+    left: 18.21600341796875px;
+    top: 12.420013427734375px;
+
+}
+
+.total-balance {
+    position: absolute;
+    width: 176px;
+    height: 135px;
+    left: 301px;
+    top: 168px;
+
+}
+
+#total-balance {
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    width: 110px;
+    height: 19px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+
+
+}
+
+#total-balance-number {
+    position: absolute;
+    width: 176px;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+}
+
+#total-balance-dolar {
+    position: absolute;
+    width: 85px;
+    height: 19px;
+    top: 74px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+
+}
+
+.btc {
+    position: absolute;
+    width: 45px;
+    height: 23px;
+    left: 493px;
+    top: 203px;
+    background: #5CC5F7;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#btc {
+    position: absolute;
+    width: 25px;
+    height: 19px;
+    top: 2px;
+    left: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+    margin: 0px;
+    text-align: center;
+}
+
+.mid-right{
+
+}
+
