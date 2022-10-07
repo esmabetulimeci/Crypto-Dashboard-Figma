@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap');
+
+body {
+    position: relative;
+    width: 98%;
+    height: 1024px;
+    background: #000000;
+}
+
+#logo {
+    position: absolute;
+    width: 170.74px;
+    height: 43px;
+    left: 50px;
+    top: 55px;
+}
+
+
+#hi {
+    position: absolute;
+    width: 180px;
+    height: 19px;
+    left: 301px;
+    top: 47px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.search {
+    position: absolute;
+    width: 320px;
+    height: 58px;
+    left: 716px;
+    top: 47px;
+    box-sizing: border-box;
+    border: solid;
+    background: #121317;
+    border-radius: 20px;
+}
+
+#search {
+    position: absolute;
+    width: 20.26px;
+    height: 20.72px;
+    top: 64px;
+    left: 743px;
+
+}
+
+#search-p {
+    position: relative;
+    width: 56px;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(255, 255, 255, 0.5);
+    top: 66.5px;
+    left: 785px;
+}
+
+#ring {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1084px;
+    top: 64px;
+}
+
+#ring-pink {
+    position: absolute;
+    width: 7px;
+    height: 7px;
+    left: 1109px;
+    top: 61px;
+    border-radius: 50%;
+    background: #F495FB;
+}
+
+#profile-photo {
+    position: absolute;
+    width: 39px;
+    height: 39px;
+    right: 47.2px;
+    top: 57px;
+    border-radius: 50%;
+}
+
+.left-div {
+    height: 438.7799987792969px;
+    width: 207px;
+    left: 50px;
+    top: 203px;
+    border-radius: 0px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 20px;
+
+}
+
+.dashboard {
+    width: 207px;
+    height: 45.54px;
+    background: linear-gradient(273.78deg, #7A9EEF 8.84%, #B8479F 47.63%, #F495FB 102.85%);
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 12.42px;
+}
+
+#dashboard {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.732000350952148px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: #FFFFFF;
+    margin: 0px;
+
+}
+
+#dashboard-img {
+    position: absolute;
+    left: 18.21600341796875px;
+    top: 12.420000076293945px;
+    border-radius: 0px;
+
+}
+
+.invoices {
+    background: #000000;
+    border-radius: 12.42px;
+    position: absolute;
+    height: 45.540000915527344px;
+    width: 207px;
+    left: 0px;
+    top: 65.54000091552734px;
+
+
+}
+
+#invoices {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.732002258300781px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+}
+
+#invoices-img {
+    position: absolute;
+    left: 18.22px;
+    top: 12.42px;
+    border-radius: 0px;
+
+}
+
+.clients {
+    background: #000000;
+    border-radius: 12.42px;
+    position: absolute;
+    height: 45.540000915527344px;
+    width: 207px;
+    left: 0px;
+    top: 131.0800018310547px;
+
+
+}
+
+#clients {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.73199462890625px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+}
+
+#clients-img {
+    position: absolute;
+    left: 18.21600341796875px;
+    top: 12.419998168945312px;
+    border-radius: 0px;
+
+}
+
+.products {
+    background: #000000;
+    border-radius: 12.42px;
+    position: absolute;
+    height: 45.540000915527344px;
+    width: 207px;
+    left: 0px;
+    top: 196.6199951171875px;
+
+
+}
+
+#products {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.73199462890625px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+
+
+}
+
+#products-img {
+    position: absolute;
+    left: 18.21600341796875px;
+    top: 12.419998168945312px;
+
+}
