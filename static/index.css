@@ -998,8 +998,317 @@ body {
 
 }
 
-#logos-bitcoin{
+#logos-bitcoin {
     position: absolute;
     left: 30px;
     top: 23.30px;
+}
+
+.bc-btc {
+    position: absolute;
+    width: 51px;
+    height: 43px;
+    left: 72px;
+    top: 14px;
+
+
+}
+
+#bitcoin-one {
+    width: 51px;
+    height: 19px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+#btc-one {
+    width: 25px;
+    height: 19px;
+    bottom: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+}
+
+.market-cap {
+    position: absolute;
+    width: 82px;
+    height: 43px;
+    left: 184px;
+    top: 14px;
+}
+
+#market-cap {
+    width: 82px;
+    height: 19px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+
+}
+
+#market-cap-dolar {
+    width: 65px;
+    height: 19px;
+    bottom: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #D79DDA;
+    margin: 0px;
+
+}
+
+.h-change {
+    position: absolute;
+    width: 85px;
+    height: 43px;
+    top: 14px;
+    left: 327px;
+}
+
+#h-change {
+    position: absolute;
+    width: 85px;
+    height: 19px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+#plus-three {
+    position: absolute;
+    width: 41px;
+    height: 19px;
+    top: 21px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #00A25D;
+    margin: 0px;
+}
+
+.pink-item {
+    position: absolute;
+    width: 125px;
+    height: 30.04px;
+    top: 0px;
+    left: 469px;
+    margin: 0px;
+}
+
+#pink-item {
+    position: absolute;
+    left: 0px;
+    top: 3px;
+
+}
+
+.trade {
+    width: 54px;
+    height: 23px;
+    position: absolute;
+    background: #000000;
+    border-radius: 20px;
+    top: 24px;
+    right: 31px;
+
+}
+
+#trade {
+    position: absolute;
+    width: 34px;
+    height: 19px;
+    top: 2px;
+    left: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 0px;
+}
+
+.bitcoin-eth {
+    position: absolute;
+    width: 744px;
+    height: 71px;
+    left: 301px;
+    top: 932px;
+
+    background: #121318;
+    border-radius: 20px;
+}
+
+
+#eth-logo {
+    position: absolute;
+    left: 30px;
+    top: 23.30px;
+}
+
+.bitcoin-eth-div {
+    position: absolute;
+    width: 51px;
+    height: 43px;
+    left: 72px;
+    top: 14px;
+}
+
+#bitcoin-blue {
+    position: absolute;
+    width: 51px;
+    height: 19px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+#eth {
+    position: absolute;
+    width: 25px;
+    height: 19px;
+    bottom: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0px;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+.market-cap-blue {
+    position: absolute;
+    width: 82px;
+    height: 43px;
+    top: 14px;
+    left: 184px;
+}
+
+#market-cap-blue {
+    width: 82px;
+    height: 19px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+#market-cap-dolar-blue {
+    width: 63px;
+    height: 19px;
+    bottom: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0px;
+    color: #05EFF4;
+
+}
+
+.h-change-two {
+    position: absolute;
+    width: 81px;
+    height: 43px;
+    left: 327px;
+    top: 14px;
+}
+
+#h-change-two {
+    width: 81px;
+    height: 19px;
+    top: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+#one-plus {
+    position: absolute;
+    width: 36px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    bottom: 3px;
+    color: #028F54;
+}
+
+.blue-item {
+    position: absolute;
+    width: 125px;
+    height: 30.04px;
+    top: 20.48;
+    left: 469px;
+}
+
+.trade-two {
+    position: absolute;
+    width: 54px;
+    height: 23px;
+    top: 24px;
+    right: 31px;
+    background: #000000;
+    border-radius: 20px;
+
+}
+
+#trade-two {
+    position: absolute;
+    width: 34px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: #FFFFFF;
+    top: 2px;
+    left: 10px;
 }
