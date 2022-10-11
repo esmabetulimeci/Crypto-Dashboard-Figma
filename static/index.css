@@ -1312,3 +1312,309 @@ body {
     top: 2px;
     left: 10px;
 }
+
+.footer-div {
+    position: absolute;
+    width: 280px;
+    height: 195px;
+    left: 331px;
+    top: 1100px;
+
+}
+
+.transaction-t {
+    position: absolute;
+    width: 168px;
+    height: 19px;
+    left: 301px;
+    top: 1040px;
+}
+
+#transaction-t {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+}
+
+#logo-b {
+    position: absolute;
+    top: 9.5px;
+    left: 0px;
+}
+
+#rd-bitcoin {
+    position: absolute;
+    left: 42px;
+    top: 0px;
+    width: 51px;
+    height: 19px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+#rd-buy {
+    position: absolute;
+    left: 42px;
+    top: 24px;
+    width: 24px;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#five-dolar {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 46px;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+#rd-bitcoin-today {
+    position: absolute;
+    width: 94px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    right: 0px;
+    top: 24px;
+}
+
+#logo-eth {
+    position: absolute;
+    top: 72.5px;
+    left: 0px;
+}
+
+#Ethereum {
+    position: absolute;
+    top: 63px;
+    left: 42px;
+    width: 72px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#Received-eth {
+    position: absolute;
+    top: 87px;
+    left: 42px;
+    width: 56px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+#zero-eth {
+    position: absolute;
+    top: 63px;
+    right: 0px;
+    width: 79px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#today-eth {
+    position: absolute;
+    top: 87px;
+    right: 0px;
+    width: 96px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+
+#polkatod-logo {
+    position: absolute;
+    top: 135px;
+    left: 0px;
+}
+
+#polkatod {
+    position: absolute;
+    left: 42px;
+    top: 126px;
+    width: 64px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#pol-buy {
+    position: absolute;
+    top: 150px;
+    left: 42px;
+    width: 24px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#pol-dolar {
+    position: absolute;
+    top: 126px;
+    right: 0px;
+    width: 44px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+}
+
+#pol-today {
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    width: 90px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.footer-div-two {
+    position: absolute;
+    width: 280px;
+    height: 195px;
+    left: 746px;
+    top: 1100px;
+
+}
+
+#eos-logo {
+    position: absolute;
+    top: 9.5px;
+    left: 0px;
+
+}
+
+#eos {
+    position: absolute;
+    left: 42px;
+    top: 0px;
+    width: 30px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+}
+
+#eos-received {
+    position: absolute;
+    top: 24px;
+    left: 42px;
+    width: 56px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#eos-dolar {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    width: 74px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#eos-yesterday {
+    position: absolute;
+    top: 24px;
+    right: 0px;
+    width: 117px;
+    height: 19px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+}
