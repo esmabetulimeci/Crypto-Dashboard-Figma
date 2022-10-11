@@ -3,7 +3,7 @@
 body {
     position: relative;
     width: 98%;
-    height: 1024px;
+
     background: #000000;
 }
 
@@ -350,6 +350,40 @@ body {
     top: 12.420013427734375px;
 
 }
+
+.log-out {
+    position: absolute;
+    background: #000000;
+    border-radius: 12.42px;
+    position: absolute;
+    height: 45.540000915527344px;
+    width: 207px;
+    left: 0px;
+    top: 1005px;
+}
+
+#log-out {
+    position: absolute;
+    height: 14px;
+    width: 92.73600006103516px;
+    left: 60.4439697265625px;
+    top: 15.73199462890625px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0px;
+
+}
+
+#log-out-img {
+    position: absolute;
+    left: 18.21600341796875px;
+    top: 12.420013427734375px;
+}
+
 
 .total-balance {
     position: absolute;
@@ -1618,3 +1652,285 @@ body {
     color: rgba(255, 255, 255, 0.5);
     margin: 0px;
 }
+
+#cardano-logo {
+    position: absolute;
+    top: 72.5px;
+    left: 0px;
+
+}
+
+#cardano {
+    position: absolute;
+    top: 63px;
+    left: 42px;
+    width: 61px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+}
+
+#cardano-received {
+    position: absolute;
+    top: 87px;
+    left: 42px;
+    width: 56px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+#cardano-dolar {
+    position: absolute;
+    top: 63px;
+    right: 0px;
+    width: 42px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#cardano-yesterday {
+    position: absolute;
+    right: 0px;
+    top: 87px;
+    width: 117px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#cardano-logo-two {
+    position: absolute;
+    top: 143px;
+    left: 0px;
+}
+
+#cardano-two {
+    position: absolute;
+    left: 42px;
+    top: 126px;
+    width: 61px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#cardano-received-two {
+    position: absolute;
+    top: 150px;
+    left: 42px;
+    width: 56px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+#cardano-dolar-two {
+    position: absolute;
+    top: 126px;
+    right: 0px;
+    width: 42px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+#cardano-yesterday-two {
+    position: absolute;
+    top: 150px;
+    right: 0px;
+    width: 117px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    color: rgba(255, 255, 255, 0.5);
+
+}
+
+.pinky-div {
+    position: absolute;
+    width: 262px;
+    height: 152px;
+    left: 16px;
+    top: 770px;
+    background: linear-gradient(273.78deg, #7A9EEF 8.84%, #B8479F 47.63%, #F495FB 102.85%);
+    border-radius: 12.42px;
+}
+
+#pinky-logo {
+    position: absolute;
+    transform: rotate(16.29deg);
+    top: 8.67px;
+    left: 19.85px;
+
+}
+
+#pinky-bitcoin {
+    position: absolute;
+    left: 24.18px;
+    top: 69px;
+    width: 58px;
+    height: 14px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+#pinky-money {
+    position: absolute;
+    left: 24.18px;
+    top: 103px;
+    width: 145px;
+    height: 14px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 13px;
+    color: #000000;
+}
+
+#pinky-btc {
+    position: absolute;
+    left: 220px;
+    top: 103px;
+    position: absolute;
+    width: 34px;
+    height: 14px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 13px;
+    color: #000000;
+}
+
+.blue-div {
+    position: absolute;
+    width: 262px;
+    height: 152px;
+    left: 16px;
+    top: 970px;
+    background: linear-gradient(273.78deg, #7A9EEF 8.84%, #1AC9EF 47.63%, #00F4F4 102.85%);
+    border-radius: 12.42px;
+}
+
+#blue-logo {
+    position: absolute;
+    transform: rotate(16.29deg);
+    top: 8.67px;
+    left: 19.85px;
+
+}
+
+#blue-bitcoin {
+    position: absolute;
+    left: 24.18px;
+    top: 69px;
+    width: 58px;
+    height: 14px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 13px;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+#blue-money {
+    position: absolute;
+    left: 24.18px;
+    top: 103px;
+    width: 145px;
+    height: 14px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 13px;
+    color: #000000;
+}
+
+#blue-btc {
+    position: absolute;
+    left: 220px;
+    top: 103px;
+    position: absolute;
+    width: 34px;
+    height: 14px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 13px;
+    color: #000000;
+}
+
+#Assets {
+    position: absolute;
+    left: 110px;
+    top: 710px;
+    position: absolute;
+    width: 54px;
+    height: 19px;
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    color: #FFFFFF;
+
+}
+
